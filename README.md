@@ -22,7 +22,7 @@ Outros alvos: `make app` (só monta `build/GoGo.app`), `make run` (roda de `buil
 
 ## Instalar em outro Mac
 
-Baixe o DMG mais recente em [Releases](https://github.com/carcaralivre/GoGo/releases), ou gere você mesmo:
+Baixe o DMG mais recente em [Releases](https://github.com/carcaralivre/gogo/releases), ou gere você mesmo:
 
 ```bash
 make dist
